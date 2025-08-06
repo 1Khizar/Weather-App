@@ -1,0 +1,6 @@
+
+City: Haripur
+Temperature: 34.18°C
+Wind Speed: 1.69 m/s
+Humidity: 49%
+Weather: Clear Sky
