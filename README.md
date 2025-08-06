@@ -26,3 +26,4 @@ A simple and interactive web app built with **Streamlit** that fetches and displ
 
 ## 👤 Author
 Khizar Ishtiaq
+LinkedIn : linkedin.com/in/khizar-ishtiaq-716518315
