@@ -23,7 +23,6 @@ A simple and interactive web app built with **Streamlit** that fetches and displ
 - Allows saving and downloading the displayed weather data as a text file.
 
 ---
-
-## 👤 Author
-Khizar Ishtiaq
-LinkedIn : (linkedin.com/in/khizar-ishtiaq-716518315)
+## 👤 Author  
+Khizar Ishtiaq  
+[LinkedIn](https://linkedin.com/in/khizar-ishtiaq-716518315)
